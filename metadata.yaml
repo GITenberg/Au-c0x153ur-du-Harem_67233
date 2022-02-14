@@ -1,0 +1,35 @@
+_repo: Au-c0x153ur-du-Harem_67233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ivray, Jehan d'
+    alias: D'Ivray, Jehan
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '54164'
+    url: http://www.gutenberg.org/2009/agents/54164
+    wikipedia: https://fr.wikipedia.org/wiki/Jehan_d%27Ivray
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67233'
+  lccn: '11002721'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6209349r
+pgterms:marc905: 20220119065504divray
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Société d'édition et de publications,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- Social life and customs -- 19th century'
+- !lcsh 'Harems -- Egypt -- History -- 19th century'
+- !lcsh 'Ivray, Jehan d'', 1861-1940'
+- GITenberg
+title: Au cœur du Harem
+url: http://www.gutenberg.org/ebooks/67233
